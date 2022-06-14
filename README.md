@@ -1,7 +1,3 @@
-Sample Git hub Practice
+Sample Git hub Practice.
+
 creace branch.
-
-
-
-
-
